@@ -6,9 +6,11 @@
 - Série: 1º ano do Ensino Médio  
 
 ## 🎓 Formação
+- Formado em Tecnologia Fundamental na Seven Educação
 - Cursando Desenvolvimento de Sistemas na Seven Educação
 
 ## 💻 Habilidades Técnicas
+- Microsoft 365: Conhecimento avançado Word, Excel, PowerPoint e Outlook
 - SQL: Conhecimento em modelagem de dados e consultas  
 - C#: Atualmente em aprendizado, explorando os conceitos de programação orientada a objetos
 
