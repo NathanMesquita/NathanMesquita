@@ -3,7 +3,7 @@
 ## 🙋‍♂️ Sobre mim
 - Nome: Nathan Mesquita  
 - Idade: 15 anos  
-- Série: 1º ano do Ensino Médio  
+- Série: 2º ano do Ensino Médio  
 
 ## 🎓 Formação
 - Formado em Tecnologia Fundamental na Seven Educação
